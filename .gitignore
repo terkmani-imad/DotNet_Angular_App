@@ -6,3 +6,5 @@ DotNet/SimpleAPI/DatingApp.db-shm
 DotNet/SimpleAPI/DatingApp.db-wal
 DotNet/SimpleAPI/bin/Debug/
 DotNet/SimpleAPI/appsettings.json
+
+Angular/SimpleClient/node_modules

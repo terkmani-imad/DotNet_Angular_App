@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+*.suo
+*.lock.json
+.vs/
+*.log
+*.pdb
+docker-compose.override.yml

@@ -12,7 +12,9 @@
       "architect": {
         "build": {
           "builder": "@angular/build:application",
-          "options": {
+          "options": {          
+            "outputPath": "dist/SimpleClient",
+            "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],
             "tsConfig": "tsconfig.app.json",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshua/Desktop/Josh/Angular And DotNet/DotNet/SimpleAPI/SimpleAPI.csproj": {}
+    "C:\\Users\\ACER\\nodeAppTest\\DotNet_Angular_App\\DotNet\\SimpleAPI\\SimpleAPI.csproj": {}
   },
   "projects": {
-    "/Users/joshua/Desktop/Josh/Angular And DotNet/DotNet/SimpleAPI/SimpleAPI.csproj": {
+    "C:\\Users\\ACER\\nodeAppTest\\DotNet_Angular_App\\DotNet\\SimpleAPI\\SimpleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshua/Desktop/Josh/Angular And DotNet/DotNet/SimpleAPI/SimpleAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\nodeAppTest\\DotNet_Angular_App\\DotNet\\SimpleAPI\\SimpleAPI.csproj",
         "projectName": "SimpleAPI",
-        "projectPath": "/Users/joshua/Desktop/Josh/Angular And DotNet/DotNet/SimpleAPI/SimpleAPI.csproj",
-        "packagesPath": "/Users/joshua/.nuget/packages/",
-        "outputPath": "/Users/joshua/Desktop/Josh/Angular And DotNet/DotNet/SimpleAPI/obj/",
+        "projectPath": "C:\\Users\\ACER\\nodeAppTest\\DotNet_Angular_App\\DotNet\\SimpleAPI\\SimpleAPI.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\nodeAppTest\\DotNet_Angular_App\\DotNet\\SimpleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/joshua/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -46,6 +46,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[14.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.27.6, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -91,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
